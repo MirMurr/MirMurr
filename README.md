@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MirMurr
-- 👀 I’m interested in learning front-end webdevelopment.
+- 👀 I’m learning front-end engineering.
 - 🌱 I’m currently learning JS.
-- 💞️ I’m looking to collaborate on learning JS, designing and building websites with HTML and CSS, reviewing eachothers code and sharing websites where we can practice more. I am currently using CodeCademy. 
+- 💞️ I’m looking to collaborate on learning JS, building websites and web applications, reviewing eachothers code and sharing websites where we can practice more. I am currently using CodeCademy. 
 - 📫 Drop me a message if you are interested in co-working.
 
 <!---
